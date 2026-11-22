@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neuilly-sur-seine-92200.maisonvalet.fr/sitemap.xml
